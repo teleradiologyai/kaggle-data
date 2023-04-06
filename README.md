@@ -23,3 +23,4 @@ We would like to thank the medical centers and patients who participated in this
 
 License:
 The Medical Data Machine Learning Kaggle Dataset by TeleradiologyAI is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. Please refer to the LICENSE file for more information.
+.
