@@ -2,7 +2,7 @@ README for Medical Data Machine Learning Kaggle Dataset by TeleradiologyAI
 
 Welcome to the Medical Data Machine Learning Kaggle Dataset by TeleradiologyAI! This dataset contains medical data that can be used for various machine learning tasks, including classification, regression, and clustering. The dataset is aimed at researchers, students, and developers who are interested in building machine learning models for medical applications.
 
-About the Dataset:
+About the Dataset.
 The Medical Data Machine Learning Kaggle Dataset by TeleradiologyAI contains data related to various medical conditions and their associated risk factors. The data includes information about patients' age, gender, blood pressure, cholesterol levels, blood sugar levels, body mass index, and other related health metrics. Additionally, this dataset contains imaging data related to medical conditions such as lung nodules and fractures.
 
 Data Collection:
